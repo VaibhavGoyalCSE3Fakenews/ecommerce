@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+.product {
+    background: white;
+    margin: 10px auto;
+    padding: 15px;
+    width: 60%;
+    border-radius: 5px;
+    box-shadow: 0 0 5px gray;
+}
+
+button {
+    padding: 8px 15px;
+    background: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#cart {
+    list-style: none;
+}
